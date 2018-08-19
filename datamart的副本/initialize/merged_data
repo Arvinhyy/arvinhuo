@@ -1,3 +1,8 @@
+aaaaaaa
+Bbbbbbb
+ccccccc
+
+
 --ext层
 DROP TABLE IF EXISTS wp_ext.merged_data;
 CREATE EXTERNAL TABLE wp_ext.merged_data (
